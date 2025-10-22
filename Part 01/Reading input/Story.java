@@ -7,10 +7,10 @@ public class Story {
 
         System.out.println("I will tell you a story, but I need some information first.");
         System.out.println("What is the main character called?");
-        String CharacterName = input.nextLine().trim();
+        String CharacterName = input.nextLine();
 
         System.out.println("What is their job?");
-        String JobName = input.nextLine().trim();
+        String JobName = input.nextLine();
 
         System.out.println("Here is the story:");
         System.out.println("Once upon a time there was " + CharacterName + ", who was " + JobName + ".");
