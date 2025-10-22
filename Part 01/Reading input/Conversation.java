@@ -6,9 +6,13 @@ public class Conversation {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Greetings! How are you doing?");
+
         String answer1 = scanner.nextLine();
+
         System.out.println("Oh, how interesting. Tell me more!");
+
         String answer2 = scanner.nextLine();
+
         System.out.println("Thanks for sharing!");
 
     }
