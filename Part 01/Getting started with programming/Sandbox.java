@@ -1,6 +1,6 @@
 public class Sandbox {
 
     public static void main(String[] args) {
-        System.out.println("Hello University of Helsinki");
+         System.out.println("Hello University of Helsinki");
     }
 }

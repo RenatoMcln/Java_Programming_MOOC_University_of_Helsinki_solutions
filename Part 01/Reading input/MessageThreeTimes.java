@@ -10,4 +10,5 @@ public class MessageThreeTimes {
         System.out.println(message + "\n" + message + "\n" + message);
 
     }
+
 }
