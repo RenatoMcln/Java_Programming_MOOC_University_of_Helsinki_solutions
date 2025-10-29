@@ -14,9 +14,9 @@ public class CheckYourIndentation {
 
         if (first == second) {
             System.out.println("Same!");
-        }else if (first > second) {
+        } else if (first > second) {
             System.out.println("The first was larger than the second!");
-        }else {
+        } else {
             System.out.println("The second was larger than the first!");
         }
 
